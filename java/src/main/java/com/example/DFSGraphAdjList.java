@@ -22,10 +22,8 @@ public class DFSGraphAdjList<T> {
         while (!q.isEmpty()) {
             GraphNode<T> current = q.pop();
             path.add(current.val);
-            //System.out.println(path);
             for (GraphNode<T> neighbor : current.getNeighbors()) {
                 if (visited.containsKey(neighbor.val)) continue;
-               // System.out.printf("Agregando %d from %d\n", neighbor.val, current.val);
                 q.add(neighbor);
                 visited.put(neighbor.val,true);
             }
