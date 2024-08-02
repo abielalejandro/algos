@@ -32,6 +32,16 @@
         <version>5.10.2</version>
         <scope>test</scope>
     </dependency>    
+    <dependency>
+        <groupId>org.openjdk.jmh</groupId>
+        <artifactId>jmh-core</artifactId>
+        <version>1.37</version>
+    </dependency>
+    <dependency>
+        <groupId>org.openjdk.jmh</groupId>
+        <artifactId>jmh-generator-annprocess</artifactId>
+        <version>1.37</version>
+    </dependency>
   </dependencies>
 
   <build>
@@ -50,6 +60,15 @@
         <plugin>
           <artifactId>maven-compiler-plugin</artifactId>
           <version>3.8.0</version>
+            <configuration>
+                <annotationProcessorPaths>
+                    <path>
+                        <groupId>org.openjdk.jmh</groupId>
+                        <artifactId>jmh-generator-annprocess</artifactId>
+                        <version>1.37</version>
+                    </path>
+                </annotationProcessorPaths>
+            </configuration>
         </plugin>
         <plugin>
           <artifactId>maven-surefire-plugin</artifactId>
