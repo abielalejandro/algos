@@ -17,8 +17,16 @@ public class GraphNode<T> {
         return this;
     }
 
+    public void setVal(T val) {
+        this.val = val;
+    }
+
     public T getVal() {
         return val;
+    }
+
+    public void setNeighbors(List<GraphNode<T>> neighbors) {
+        this.neighbors = neighbors;
     }
 
     public List<GraphNode<T>> getNeighbors() {

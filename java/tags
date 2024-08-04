@@ -1,0 +1,292 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/main/prg/challenges/topics/challenges/java/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+BFSGraphAdjList	src/main/java/com/example/BFSGraphAdjList.java	/^public class BFSGraphAdjList<T> {$/;"	c
+BFSGraphAdjListTest	src/test/java/com/example/BFSGraphAdjListTest.java	/^public class BFSGraphAdjListTest {$/;"	c
+BTInOrder	src/main/java/com/example/BTInOrder.java	/^public class BTInOrder<T> {$/;"	c
+BTInOrderTest	src/test/java/com/example/BTInOrderTest.java	/^public class BTInOrderTest {$/;"	c
+BTPostOrder	src/main/java/com/example/BTPostOrder.java	/^public class BTPostOrder<T> {$/;"	c
+BTPostOrderTest	src/test/java/com/example/BTPostOrderTest.java	/^public class BTPostOrderTest {$/;"	c
+BTPreOrder	src/main/java/com/example/BTPreOrder.java	/^public class BTPreOrder<T> {$/;"	c
+BTPreOrderTest	src/test/java/com/example/BTPreOrderTest.java	/^public class BTPreOrderTest {$/;"	c
+CheckBst	src/main/java/com/example/CheckBst.java	/^public class CheckBst {$/;"	c
+CheckBstTest	src/test/java/com/example/CheckBstTest.java	/^public class CheckBstTest {$/;"	c
+CompareTwoBT	src/main/java/com/example/CompareTwoBT.java	/^public class CompareTwoBT<T> {$/;"	c
+CompareTwoBTTest	src/test/java/com/example/CompareTwoBTTest.java	/^public class CompareTwoBTTest {$/;"	c
+CustomLinkedList	src/main/java/com/example/CustomLinkedList.java	/^    public CustomLinkedList() {$/;"	m	class:CustomLinkedList
+CustomLinkedList	src/main/java/com/example/CustomLinkedList.java	/^public class CustomLinkedList<T> {$/;"	c
+DFSGraphAdjList	src/main/java/com/example/DFSGraphAdjList.java	/^public class DFSGraphAdjList<T> {$/;"	c
+DFSGraphAdjListTest	src/test/java/com/example/DFSGraphAdjListTest.java	/^public class DFSGraphAdjListTest {$/;"	c
+GraphNode	src/main/java/com/example/GraphNode.java	/^    public GraphNode(T val) {$/;"	m	class:GraphNode
+GraphNode	src/main/java/com/example/GraphNode.java	/^public class GraphNode<T> {$/;"	c
+Hack01	src/main/java/com/example/Hack01.java	/^public class Hack01 {$/;"	c
+Hack02	src/main/java/com/example/Hack02.java	/^public class Hack02 {$/;"	c
+Hack02Test	src/test/java/com/example/Hack02Test.java	/^public class Hack02Test {$/;"	c
+HexColorToRgb	src/main/java/com/example/HexColorToRgb.java	/^public class HexColorToRgb {$/;"	c
+HexColorToRgbTest	src/test/java/com/example/HexColorToRgbTest.java	/^class HexColorToRgbTest {$/;"	c
+InverseBt	src/main/java/com/example/InverseBt.java	/^public class InverseBt<T> {$/;"	c
+InverseBtTest	src/test/java/com/example/InverseBtTest.java	/^class InverseBtTest {$/;"	c
+LinkNode	src/main/java/com/example/LinkNode.java	/^    private LinkNode() {$/;"	m	class:LinkNode	file:
+LinkNode	src/main/java/com/example/LinkNode.java	/^    public LinkNode(T val) {$/;"	m	class:LinkNode
+LinkNode	src/main/java/com/example/LinkNode.java	/^    public LinkNode(T val, LinkNode<T> prev, LinkNode<T> next) {$/;"	m	class:LinkNode
+LinkNode	src/main/java/com/example/LinkNode.java	/^public class LinkNode<T> {$/;"	c
+LinkedListTest	src/test/java/com/example/LinkedListTest.java	/^public class LinkedListTest {$/;"	c
+Lru	src/main/java/com/example/Lru.java	/^    public Lru(int capacity) {$/;"	m	class:Lru
+Lru	src/main/java/com/example/Lru.java	/^public class Lru<K, V> {$/;"	c
+LruTest	src/test/java/com/example/LruTest.java	/^class LruTest {$/;"	c
+MazeResolverTest	src/test/java/com/example/MazeResolverTest.java	/^class MazeResolverTest {$/;"	c
+MazeSolver	src/main/java/com/example/MazeSolver.java	/^public class MazeSolver {$/;"	c
+MinHeap	src/main/java/com/example/MinHeap.java	/^    public MinHeap() {$/;"	m	class:MinHeap
+MinHeap	src/main/java/com/example/MinHeap.java	/^public class MinHeap {$/;"	c
+Mru	src/main/java/com/example/Mru.java	/^    public Mru(int capacity) {$/;"	m	class:Mru
+Mru	src/main/java/com/example/Mru.java	/^public class Mru<K, V> {$/;"	c
+MruTest	src/test/java/com/example/MruTest.java	/^public class MruTest {$/;"	c
+Point	src/main/java/com/example/Point.java	/^    private Point() {$/;"	m	class:Point	file:
+Point	src/main/java/com/example/Point.java	/^    public Point(int x, int y) {$/;"	m	class:Point
+Point	src/main/java/com/example/Point.java	/^public class Point {$/;"	c
+QuickSort	src/main/java/com/example/QuickSort.java	/^public class QuickSort {$/;"	c
+QuickSortTest	src/test/java/com/example/QuickSortTest.java	/^public class QuickSortTest {$/;"	c
+RGB	src/main/java/com/example/RGB.java	/^    public RGB(int r, int g, int b) {$/;"	m	class:RGB
+RGB	src/main/java/com/example/RGB.java	/^public class RGB {$/;"	c
+SearchInBT	src/main/java/com/example/SearchInBT.java	/^public class SearchInBT {$/;"	c
+SearchInBTTest	src/test/java/com/example/SearchInBTTest.java	/^public class SearchInBTTest {$/;"	c
+TestOk	src/test/java/com/example/Hack02Test.java	/^    public void TestOk() {$/;"	m	class:Hack02Test
+TestOk02	src/test/java/com/example/Hack02Test.java	/^    public void TestOk02() {$/;"	m	class:Hack02Test
+TreeNode	src/main/java/com/example/TreeNode.java	/^    public TreeNode() {$/;"	m	class:TreeNode
+TreeNode	src/main/java/com/example/TreeNode.java	/^    public TreeNode(T val) {$/;"	m	class:TreeNode
+TreeNode	src/main/java/com/example/TreeNode.java	/^    public TreeNode(T val, TreeNode<T> left, TreeNode<T> right) {$/;"	m	class:TreeNode
+TreeNode	src/main/java/com/example/TreeNode.java	/^public class TreeNode<T> {$/;"	c
+add	src/main/java/com/example/CustomLinkedList.java	/^    public void add(T v) {$/;"	m	class:CustomLinkedList
+addAt	src/main/java/com/example/CustomLinkedList.java	/^    public void addAt(T v, int index) {$/;"	m	class:CustomLinkedList
+addFirst	src/main/java/com/example/CustomLinkedList.java	/^    public void addFirst(T v) {$/;"	m	class:CustomLinkedList
+addLast	src/main/java/com/example/CustomLinkedList.java	/^    public void addLast(T v) {$/;"	m	class:CustomLinkedList
+addNeighbor	src/main/java/com/example/GraphNode.java	/^    public GraphNode<T> addNeighbor(GraphNode<T> neighbor) {$/;"	m	class:GraphNode
+b	src/main/java/com/example/RGB.java	/^    public int b;$/;"	f	class:RGB
+beforeAll	src/test/java/com/example/BFSGraphAdjListTest.java	/^    public static void beforeAll() {$/;"	m	class:BFSGraphAdjListTest
+beforeAll	src/test/java/com/example/BTInOrderTest.java	/^    public static void beforeAll() {$/;"	m	class:BTInOrderTest
+beforeAll	src/test/java/com/example/BTPostOrderTest.java	/^    public static void beforeAll() {$/;"	m	class:BTPostOrderTest
+beforeAll	src/test/java/com/example/BTPreOrderTest.java	/^    public static void beforeAll() {$/;"	m	class:BTPreOrderTest
+beforeAll	src/test/java/com/example/CheckBstTest.java	/^    public static void beforeAll() {$/;"	m	class:CheckBstTest
+beforeAll	src/test/java/com/example/CompareTwoBTTest.java	/^    public static void beforeAll() {$/;"	m	class:CompareTwoBTTest
+beforeAll	src/test/java/com/example/DFSGraphAdjListTest.java	/^    public static void beforeAll() {$/;"	m	class:DFSGraphAdjListTest
+beforeAll	src/test/java/com/example/Hack02Test.java	/^    public static void beforeAll() {$/;"	m	class:Hack02Test
+beforeAll	src/test/java/com/example/HexColorToRgbTest.java	/^    public static void beforeAll() {$/;"	m	class:HexColorToRgbTest
+beforeAll	src/test/java/com/example/InverseBtTest.java	/^    public static void beforeAll() {$/;"	m	class:InverseBtTest
+beforeAll	src/test/java/com/example/LinkedListTest.java	/^    public static void beforeAll() {$/;"	m	class:LinkedListTest
+beforeAll	src/test/java/com/example/LruTest.java	/^    public static void beforeAll() {$/;"	m	class:LruTest
+beforeAll	src/test/java/com/example/MazeResolverTest.java	/^    public static void beforeAll() {$/;"	m	class:MazeResolverTest
+beforeAll	src/test/java/com/example/MruTest.java	/^    public static void beforeAll() {$/;"	m	class:MruTest
+beforeAll	src/test/java/com/example/QuickSortTest.java	/^    public static void beforeAll() {$/;"	m	class:QuickSortTest
+beforeAll	src/test/java/com/example/SearchInBTTest.java	/^    public static void beforeAll() {$/;"	m	class:SearchInBTTest
+beforeEach	src/test/java/com/example/InverseBtTest.java	/^    public void beforeEach() {$/;"	m	class:InverseBtTest
+buildInvertTree	src/main/java/com/example/InverseBt.java	/^    public TreeNode<T> buildInvertTree(T[] input) {$/;"	m	class:InverseBt
+buildInvertTree	src/main/java/com/example/InverseBt.java	/^    public TreeNode<T> buildInvertTree(TreeNode<T> root) {$/;"	m	class:InverseBt
+buildInvertTree	src/test/java/com/example/InverseBtTest.java	/^    void buildInvertTree() {$/;"	m	class:InverseBtTest
+buildTree	src/main/java/com/example/InverseBt.java	/^    public TreeNode<T> buildTree(T[] input) {$/;"	m	class:InverseBt
+buildTree	src/test/java/com/example/InverseBtTest.java	/^    void buildTree() {$/;"	m	class:InverseBtTest
+capacity	src/main/java/com/example/Lru.java	/^    private int capacity;$/;"	f	class:Lru	file:
+capacity	src/main/java/com/example/Mru.java	/^    private int capacity;$/;"	f	class:Mru	file:
+challenges	pom.xml	/^  <artifactId>challenges<\/artifactId>$/;"	a	groupId:com.example
+clear	src/main/java/com/example/CustomLinkedList.java	/^    public void clear() {$/;"	m	class:CustomLinkedList
+clear	src/test/java/com/example/LinkedListTest.java	/^    public void clear() {$/;"	m	class:LinkedListTest
+com.example	pom.xml	/^  <groupId>com.example<\/groupId>$/;"	g
+com.example	src/main/java/com/example/BFSGraphAdjList.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/BTInOrder.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/BTPostOrder.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/BTPreOrder.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/CheckBst.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/CompareTwoBT.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/CustomLinkedList.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/DFSGraphAdjList.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/GraphNode.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/Hack01.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/Hack02.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/HexColorToRgb.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/InverseBt.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/LinkNode.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/Lru.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/MazeSolver.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/MinHeap.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/Mru.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/Point.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/QuickSort.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/RGB.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/SearchInBT.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/TreeNode.java	/^package com.example;$/;"	p
+com.example	src/test/java/com/example/BFSGraphAdjListTest.java	/^package com.example;$/;"	p
+com.example	src/test/java/com/example/BTInOrderTest.java	/^package com.example;$/;"	p
+com.example	src/test/java/com/example/BTPostOrderTest.java	/^package com.example;$/;"	p
+com.example	src/test/java/com/example/BTPreOrderTest.java	/^package com.example;$/;"	p
+com.example	src/test/java/com/example/CheckBstTest.java	/^package com.example;$/;"	p
+com.example	src/test/java/com/example/CompareTwoBTTest.java	/^package com.example;$/;"	p
+com.example	src/test/java/com/example/DFSGraphAdjListTest.java	/^package com.example;$/;"	p
+com.example	src/test/java/com/example/Hack02Test.java	/^package com.example;$/;"	p
+com.example	src/test/java/com/example/HexColorToRgbTest.java	/^package com.example;$/;"	p
+com.example	src/test/java/com/example/InverseBtTest.java	/^package com.example;$/;"	p
+com.example	src/test/java/com/example/LinkedListTest.java	/^package com.example;$/;"	p
+com.example	src/test/java/com/example/LruTest.java	/^package com.example;$/;"	p
+com.example	src/test/java/com/example/MazeResolverTest.java	/^package com.example;$/;"	p
+com.example	src/test/java/com/example/MruTest.java	/^package com.example;$/;"	p
+com.example	src/test/java/com/example/QuickSortTest.java	/^package com.example;$/;"	p
+com.example	src/test/java/com/example/SearchInBTTest.java	/^package com.example;$/;"	p
+compare	src/main/java/com/example/CompareTwoBT.java	/^    public boolean compare(TreeNode<T> a, TreeNode<T> b) {$/;"	m	class:CompareTwoBT
+counter	src/main/java/com/example/CustomLinkedList.java	/^    int counter;$/;"	f	class:CustomLinkedList
+data	src/main/java/com/example/MinHeap.java	/^    List<Integer> data;$/;"	f	class:MinHeap
+detach	src/main/java/com/example/Lru.java	/^    private void detach(LinkNode<V> node) {$/;"	m	class:Lru	file:
+detach	src/main/java/com/example/Mru.java	/^    private void detach(LinkNode<V> node) {$/;"	m	class:Mru	file:
+dfs	src/main/java/com/example/SearchInBT.java	/^    private boolean dfs(TreeNode<Integer> node, Integer needle) {$/;"	m	class:SearchInBT	file:
+g	src/main/java/com/example/RGB.java	/^    public int g;$/;"	f	class:RGB
+get	src/main/java/com/example/CustomLinkedList.java	/^    public LinkNode<T> get(T v) {$/;"	m	class:CustomLinkedList
+get	src/main/java/com/example/Lru.java	/^    public V get(K key) {$/;"	m	class:Lru
+get	src/main/java/com/example/Mru.java	/^    public V get(K key) {$/;"	m	class:Mru
+getAt	src/main/java/com/example/CustomLinkedList.java	/^    public LinkNode<T> getAt(int index) {$/;"	m	class:CustomLinkedList
+getNeighbors	src/main/java/com/example/GraphNode.java	/^    public List<GraphNode<T>> getNeighbors() {$/;"	m	class:GraphNode
+getVal	src/main/java/com/example/GraphNode.java	/^    public T getVal() {$/;"	m	class:GraphNode
+head	src/main/java/com/example/CustomLinkedList.java	/^    LinkNode<T> head;$/;"	f	class:CustomLinkedList
+head	src/main/java/com/example/Lru.java	/^    private LinkNode<V> head;$/;"	f	class:Lru	file:
+head	src/main/java/com/example/Mru.java	/^    private LinkNode<V> head;$/;"	f	class:Mru	file:
+heapyfyDown	src/main/java/com/example/MinHeap.java	/^    private void heapyfyDown(int idx) {$/;"	m	class:MinHeap	file:
+heapyfyUp	src/main/java/com/example/MinHeap.java	/^    private void heapyfyUp(int idx) {$/;"	m	class:MinHeap	file:
+indexOf	src/main/java/com/example/CustomLinkedList.java	/^    public int indexOf(T v) {$/;"	m	class:CustomLinkedList
+insert	src/main/java/com/example/MinHeap.java	/^    public void insert(Integer v) {$/;"	m	class:MinHeap
+isValid	src/main/java/com/example/CheckBst.java	/^    private boolean isValid(TreeNode<Integer> node, int min, int max) {$/;"	m	class:CheckBst	file:
+isValid	src/main/java/com/example/CheckBst.java	/^    public boolean isValid(TreeNode<Integer> node) {$/;"	m	class:CheckBst
+isValid	src/main/java/com/example/Hack02.java	/^    public boolean isValid(int[][] input) {$/;"	m	class:Hack02
+it	src/test/java/com/example/InverseBtTest.java	/^    static InverseBt it;$/;"	f	class:InverseBtTest
+left	src/main/java/com/example/MinHeap.java	/^    private int left(int idx) {$/;"	m	class:MinHeap	file:
+left	src/main/java/com/example/TreeNode.java	/^    public TreeNode<T> left;$/;"	f	class:TreeNode
+length	src/main/java/com/example/Lru.java	/^    private int length;$/;"	f	class:Lru	file:
+length	src/main/java/com/example/MinHeap.java	/^    int length;$/;"	f	class:MinHeap
+length	src/main/java/com/example/Mru.java	/^    private int length;$/;"	f	class:Mru	file:
+lookup	src/main/java/com/example/Lru.java	/^    private Map<K, LinkNode<V>> lookup;$/;"	f	class:Lru	file:
+lookup	src/main/java/com/example/Mru.java	/^    private Map<K, LinkNode<V>> lookup;$/;"	f	class:Mru	file:
+maven.compiler.source	pom.xml	/^    <maven.compiler.source>17<\/maven.compiler.source>$/;"	p
+maven.compiler.target	pom.xml	/^    <maven.compiler.target>17<\/maven.compiler.target>$/;"	p
+neighbors	src/main/java/com/example/GraphNode.java	/^    List<GraphNode<T>> neighbors;$/;"	f	class:GraphNode
+next	src/main/java/com/example/LinkNode.java	/^    public LinkNode next;$/;"	f	class:LinkNode
+noEqualBTTest	src/test/java/com/example/CompareTwoBTTest.java	/^    public void noEqualBTTest() {$/;"	m	class:CompareTwoBTTest
+noEqualBTTestOne	src/test/java/com/example/CompareTwoBTTest.java	/^    public void noEqualBTTestOne() {$/;"	m	class:CompareTwoBTTest
+nsbbf684f00101	pom.xml	/^  xsi:schemaLocation="http:\/\/maven.apache.org\/POM\/4.0.0 http:\/\/maven.apache.org\/xsd\/mave/;"	n	uri:http://maven.apache.org/POM/4.0.0
+otro	src/test/java/com/example/HexColorToRgbTest.java	/^    void otro() {$/;"	m	class:HexColorToRgbTest
+parent	src/main/java/com/example/MinHeap.java	/^    private int parent(int idx) {$/;"	m	class:MinHeap	file:
+partition	src/main/java/com/example/QuickSort.java	/^    private int partition(int[] array, int low, int hight) {$/;"	m	class:QuickSort	file:
+paths	src/main/java/com/example/MazeSolver.java	/^    int[][] paths = {{0,-1},{1,0},{0,1},{-1,0}};$/;"	f	class:MazeSolver
+peek	src/main/java/com/example/MinHeap.java	/^    public Integer peek() {$/;"	m	class:MinHeap
+pop	src/main/java/com/example/MinHeap.java	/^    public Integer pop() {$/;"	m	class:MinHeap
+prepend	src/main/java/com/example/Lru.java	/^    private void prepend(LinkNode<V> node) {$/;"	m	class:Lru	file:
+prepend	src/main/java/com/example/Mru.java	/^    private void prepend(LinkNode<V> node) {$/;"	m	class:Mru	file:
+prev	src/main/java/com/example/LinkNode.java	/^    public LinkNode prev;$/;"	f	class:LinkNode
+print	src/main/java/com/example/BTInOrder.java	/^    public void print(List<T> data) {$/;"	m	class:BTInOrder
+print	src/main/java/com/example/BTPostOrder.java	/^    public void print(List<T> data) {$/;"	m	class:BTPostOrder
+print	src/main/java/com/example/BTPreOrder.java	/^    public void print(List<T> data) {$/;"	m	class:BTPreOrder
+print	src/main/java/com/example/CustomLinkedList.java	/^    public void print() {$/;"	m	class:CustomLinkedList
+print	src/main/java/com/example/InverseBt.java	/^    public void print(TreeNode<T> n) {$/;"	m	class:InverseBt
+print	src/main/java/com/example/Lru.java	/^    public void print() {$/;"	m	class:Lru
+print	src/main/java/com/example/MinHeap.java	/^    public void print() {$/;"	m	class:MinHeap
+print	src/main/java/com/example/Mru.java	/^    public void print() {$/;"	m	class:Mru
+print	src/main/java/com/example/QuickSort.java	/^    public void print(int[] array) {$/;"	m	class:QuickSort
+printPath	src/main/java/com/example/MazeSolver.java	/^    public void printPath(Queue<Point> path) {$/;"	m	class:MazeSolver
+project.build.sourceEncoding	pom.xml	/^    <project.build.sourceEncoding>UTF-8<\/project.build.sourceEncoding>$/;"	p
+r	src/main/java/com/example/RGB.java	/^    public int r;$/;"	f	class:RGB
+remove	src/main/java/com/example/CustomLinkedList.java	/^    public void remove(T v) {$/;"	m	class:CustomLinkedList
+removeAt	src/main/java/com/example/CustomLinkedList.java	/^    public void removeAt(int index) {$/;"	m	class:CustomLinkedList
+removeAt	src/test/java/com/example/LinkedListTest.java	/^    public void removeAt() {$/;"	m	class:LinkedListTest
+removeAt2	src/test/java/com/example/LinkedListTest.java	/^    public void removeAt2() {$/;"	m	class:LinkedListTest
+removeAtTwo	src/test/java/com/example/LinkedListTest.java	/^    public void removeAtTwo() {$/;"	m	class:LinkedListTest
+removeVal	src/test/java/com/example/LinkedListTest.java	/^    public void removeVal() {$/;"	m	class:LinkedListTest
+resolve	src/main/java/com/example/MazeSolver.java	/^    private boolean resolve($/;"	m	class:MazeSolver	file:
+resolve	src/main/java/com/example/MazeSolver.java	/^    public Queue<Point>  resolve(char[][] maze, char wall, Point start, char end) {$/;"	m	class:MazeSolver
+reverseLookup	src/main/java/com/example/Lru.java	/^    private Map<LinkNode<V>, K> reverseLookup;$/;"	f	class:Lru	file:
+reverseLookup	src/main/java/com/example/Mru.java	/^    private Map<LinkNode<V>, K> reverseLookup;$/;"	f	class:Mru	file:
+right	src/main/java/com/example/MinHeap.java	/^    private int right(int idx) {$/;"	m	class:MinHeap	file:
+right	src/main/java/com/example/TreeNode.java	/^    public TreeNode<T> right;$/;"	f	class:TreeNode
+search	src/main/java/com/example/SearchInBT.java	/^    public boolean search(TreeNode<Integer> head, Integer needle) {$/;"	m	class:SearchInBT
+setNeighbors	src/main/java/com/example/GraphNode.java	/^    public void setNeighbors(List<GraphNode<T>> neighbors) {$/;"	m	class:GraphNode
+setVal	src/main/java/com/example/GraphNode.java	/^    public void setVal(T val) {$/;"	m	class:GraphNode
+size	src/main/java/com/example/CustomLinkedList.java	/^    public int size() {$/;"	m	class:CustomLinkedList
+sort	src/main/java/com/example/QuickSort.java	/^    private void sort(int[] array, int low, int hight) {$/;"	m	class:QuickSort	file:
+sort	src/main/java/com/example/QuickSort.java	/^    public void sort(int[] array) {$/;"	m	class:QuickSort
+sortOK	src/test/java/com/example/QuickSortTest.java	/^    void sortOK() {$/;"	m	class:QuickSortTest
+sortOKEmpty	src/test/java/com/example/QuickSortTest.java	/^    void sortOKEmpty() {$/;"	m	class:QuickSortTest
+sortOKTwo	src/test/java/com/example/QuickSortTest.java	/^    void sortOKTwo() {$/;"	m	class:QuickSortTest
+source	src/test/java/com/example/InverseBtTest.java	/^    Integer[] source = new Integer[] { 4, 2, 7, 1, 3, 6, 9 };$/;"	f	class:InverseBtTest
+sum	src/main/java/com/example/Hack02.java	/^    private int sum(int[][] input, int index, int n) {$/;"	m	class:Hack02	file:
+svc	src/test/java/com/example/BFSGraphAdjListTest.java	/^    static BFSGraphAdjList<Integer> svc;$/;"	f	class:BFSGraphAdjListTest
+svc	src/test/java/com/example/BTInOrderTest.java	/^    static BTInOrder<Integer> svc;$/;"	f	class:BTInOrderTest
+svc	src/test/java/com/example/BTPostOrderTest.java	/^    static BTPostOrder<Integer> svc;$/;"	f	class:BTPostOrderTest
+svc	src/test/java/com/example/BTPreOrderTest.java	/^    static BTPreOrder<Integer> svc;$/;"	f	class:BTPreOrderTest
+svc	src/test/java/com/example/CheckBstTest.java	/^    static CheckBst svc;$/;"	f	class:CheckBstTest
+svc	src/test/java/com/example/CompareTwoBTTest.java	/^    static CompareTwoBT<Integer> svc;$/;"	f	class:CompareTwoBTTest
+svc	src/test/java/com/example/DFSGraphAdjListTest.java	/^    static DFSGraphAdjList<Integer> svc;$/;"	f	class:DFSGraphAdjListTest
+svc	src/test/java/com/example/Hack02Test.java	/^    static Hack02 svc;$/;"	f	class:Hack02Test
+svc	src/test/java/com/example/HexColorToRgbTest.java	/^    static HexColorToRgb svc;$/;"	f	class:HexColorToRgbTest
+svc	src/test/java/com/example/LinkedListTest.java	/^    static CustomLinkedList<Integer> svc;$/;"	f	class:LinkedListTest
+svc	src/test/java/com/example/LruTest.java	/^    static Lru<String, Integer> svc;$/;"	f	class:LruTest
+svc	src/test/java/com/example/MazeResolverTest.java	/^    static MazeSolver svc;$/;"	f	class:MazeResolverTest
+svc	src/test/java/com/example/MruTest.java	/^    static Mru<String, Integer> svc;$/;"	f	class:MruTest
+svc	src/test/java/com/example/QuickSortTest.java	/^    static QuickSort svc;$/;"	f	class:QuickSortTest
+svc	src/test/java/com/example/SearchInBTTest.java	/^    static SearchInBT svc;$/;"	f	class:SearchInBTTest
+tail	src/main/java/com/example/CustomLinkedList.java	/^    LinkNode<T> tail;$/;"	f	class:CustomLinkedList
+tail	src/main/java/com/example/Lru.java	/^    private LinkNode<V> tail;$/;"	f	class:Lru	file:
+tail	src/main/java/com/example/Mru.java	/^    private LinkNode<V> tail;$/;"	f	class:Mru	file:
+testAddAt	src/test/java/com/example/LinkedListTest.java	/^    public void testAddAt() {$/;"	m	class:LinkedListTest
+testBuildInvertTree	src/test/java/com/example/InverseBtTest.java	/^    void testBuildInvertTree() {$/;"	m	class:InverseBtTest
+testNoPath	src/test/java/com/example/MazeResolverTest.java	/^    void testNoPath() {$/;"	m	class:MazeResolverTest
+testNoPathEmpty	src/test/java/com/example/MazeResolverTest.java	/^    void testNoPathEmpty() {$/;"	m	class:MazeResolverTest
+testOK	src/test/java/com/example/BFSGraphAdjListTest.java	/^    public void testOK() {$/;"	m	class:BFSGraphAdjListTest
+testOK	src/test/java/com/example/DFSGraphAdjListTest.java	/^    public void testOK() {$/;"	m	class:DFSGraphAdjListTest
+testOK	src/test/java/com/example/LruTest.java	/^    void testOK() {$/;"	m	class:LruTest
+testOK	src/test/java/com/example/MazeResolverTest.java	/^    void testOK() {$/;"	m	class:MazeResolverTest
+testOK	src/test/java/com/example/MruTest.java	/^    public void testOK() {$/;"	m	class:MruTest
+testOKEmpty	src/test/java/com/example/BFSGraphAdjListTest.java	/^    public void testOKEmpty() {$/;"	m	class:BFSGraphAdjListTest
+testOKEmpty	src/test/java/com/example/DFSGraphAdjListTest.java	/^    public void testOKEmpty() {$/;"	m	class:DFSGraphAdjListTest
+testOKThree	src/test/java/com/example/DFSGraphAdjListTest.java	/^    public void testOKThree() {$/;"	m	class:DFSGraphAdjListTest
+testOKTwo	src/test/java/com/example/BFSGraphAdjListTest.java	/^    public void testOKTwo() {$/;"	m	class:BFSGraphAdjListTest
+testOKTwo	src/test/java/com/example/DFSGraphAdjListTest.java	/^    public void testOKTwo() {$/;"	m	class:DFSGraphAdjListTest
+testOk	src/test/java/com/example/CheckBstTest.java	/^    public void testOk() throws Exception {$/;"	m	class:CheckBstTest
+testSize	src/test/java/com/example/LinkedListTest.java	/^    public void testSize() {$/;"	m	class:LinkedListTest
+toRgb	src/main/java/com/example/HexColorToRgb.java	/^    public RGB toRgb(String color) {$/;"	m	class:HexColorToRgb
+toRgb000	src/test/java/com/example/HexColorToRgbTest.java	/^    void toRgb000() {$/;"	m	class:HexColorToRgbTest
+toRgb151515	src/test/java/com/example/HexColorToRgbTest.java	/^    void toRgb151515() {$/;"	m	class:HexColorToRgbTest
+toRgb255255255	src/test/java/com/example/HexColorToRgbTest.java	/^    void toRgb255255255() {$/;"	m	class:HexColorToRgbTest
+toRgbBlue	src/test/java/com/example/HexColorToRgbTest.java	/^    void toRgbBlue() {$/;"	m	class:HexColorToRgbTest
+toRgbGreen	src/test/java/com/example/HexColorToRgbTest.java	/^    void toRgbGreen() {$/;"	m	class:HexColorToRgbTest
+toRgbRed	src/test/java/com/example/HexColorToRgbTest.java	/^    void toRgbRed() {$/;"	m	class:HexColorToRgbTest
+toString	src/main/java/com/example/LinkNode.java	/^    public String toString() {$/;"	m	class:LinkNode
+toString	src/main/java/com/example/TreeNode.java	/^    public String toString() {$/;"	m	class:TreeNode
+tree	src/test/java/com/example/InverseBtTest.java	/^    TreeNode<Integer> tree;$/;"	f	class:InverseBtTest
+trimCache	src/main/java/com/example/Lru.java	/^    private void trimCache() {$/;"	m	class:Lru	file:
+trimCache	src/main/java/com/example/Mru.java	/^    private void trimCache() {$/;"	m	class:Mru	file:
+update	src/main/java/com/example/Lru.java	/^    public void update(K key, V value) {$/;"	m	class:Lru
+update	src/main/java/com/example/Mru.java	/^    public void update(K key, V value) {$/;"	m	class:Mru
+val	src/main/java/com/example/GraphNode.java	/^    T val;$/;"	f	class:GraphNode
+val	src/main/java/com/example/LinkNode.java	/^    public T val;$/;"	f	class:LinkNode
+val	src/main/java/com/example/TreeNode.java	/^    public T val;$/;"	f	class:TreeNode
+walk	src/main/java/com/example/BFSGraphAdjList.java	/^    public List<T> walk(GraphNode<T> node) {$/;"	m	class:BFSGraphAdjList
+walk	src/main/java/com/example/BTInOrder.java	/^    public List<T> walk(TreeNode<T> root) {$/;"	m	class:BTInOrder
+walk	src/main/java/com/example/BTInOrder.java	/^    public void walk(TreeNode<T> root, List<T> data) {$/;"	m	class:BTInOrder
+walk	src/main/java/com/example/BTPostOrder.java	/^    public List<T> walk(TreeNode<T> root) {$/;"	m	class:BTPostOrder
+walk	src/main/java/com/example/BTPostOrder.java	/^    public void walk(TreeNode<T> root, List<T> data) {$/;"	m	class:BTPostOrder
+walk	src/main/java/com/example/BTPreOrder.java	/^    public List<T> walk(TreeNode<T> root) {$/;"	m	class:BTPreOrder
+walk	src/main/java/com/example/BTPreOrder.java	/^    public void walk(TreeNode<T> root, List<T> data) {$/;"	m	class:BTPreOrder
+walk	src/main/java/com/example/CompareTwoBT.java	/^    private boolean walk(TreeNode<T> a, TreeNode<T> b) {$/;"	m	class:CompareTwoBT	file:
+walk	src/main/java/com/example/DFSGraphAdjList.java	/^    public List<T> walk(GraphNode<T> node) {$/;"	m	class:DFSGraphAdjList
+walkTest	src/test/java/com/example/BTInOrderTest.java	/^    public void walkTest() {$/;"	m	class:BTInOrderTest
+walkTest	src/test/java/com/example/BTPostOrderTest.java	/^    public void walkTest() {$/;"	m	class:BTPostOrderTest
+walkTest	src/test/java/com/example/BTPreOrderTest.java	/^    public void walkTest() {$/;"	m	class:BTPreOrderTest
+walkTest	src/test/java/com/example/CompareTwoBTTest.java	/^    public void walkTest() {$/;"	m	class:CompareTwoBTTest
+walkTest	src/test/java/com/example/SearchInBTTest.java	/^    public void walkTest() {$/;"	m	class:SearchInBTTest
+walkTestFalseByNo	src/test/java/com/example/SearchInBTTest.java	/^    public void walkTestFalseByNo() {$/;"	m	class:SearchInBTTest
+walkTestFalseByNull	src/test/java/com/example/SearchInBTTest.java	/^    public void walkTestFalseByNull() {$/;"	m	class:SearchInBTTest
+walkTestTrue	src/test/java/com/example/SearchInBTTest.java	/^    public void walkTestTrue() {$/;"	m	class:SearchInBTTest
+x	src/main/java/com/example/Point.java	/^    public int x;$/;"	f	class:Point
+xsi	pom.xml	/^  xsi:schemaLocation="http:\/\/maven.apache.org\/POM\/4.0.0 http:\/\/maven.apache.org\/xsd\/mave/;"	n	uri:http://www.w3.org/2001/XMLSchema-instance
+y	src/main/java/com/example/Point.java	/^    public int y;$/;"	f	class:Point
