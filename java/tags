@@ -21,6 +21,9 @@ CheckBst	src/main/java/com/example/CheckBst.java	/^public class CheckBst {$/;"	c
 CheckBstTest	src/test/java/com/example/CheckBstTest.java	/^public class CheckBstTest {$/;"	c
 CompareTwoBT	src/main/java/com/example/CompareTwoBT.java	/^public class CompareTwoBT<T> {$/;"	c
 CompareTwoBTTest	src/test/java/com/example/CompareTwoBTTest.java	/^public class CompareTwoBTTest {$/;"	c
+CountPrimesTest	src/test/java/com/example/CountPrimesTest.java	/^public class CountPrimesTest {$/;"	c
+CounterPrimes	src/main/java/com/example/CounterPrimes.java	/^    public CounterPrimes(int numOfThreads, int maxNumber) {$/;"	m	class:CounterPrimes
+CounterPrimes	src/main/java/com/example/CounterPrimes.java	/^public class CounterPrimes {$/;"	c
 CustomLinkedList	src/main/java/com/example/CustomLinkedList.java	/^    public CustomLinkedList() {$/;"	m	class:CustomLinkedList
 CustomLinkedList	src/main/java/com/example/CustomLinkedList.java	/^public class CustomLinkedList<T> {$/;"	c
 DFSGraphAdjList	src/main/java/com/example/DFSGraphAdjList.java	/^public class DFSGraphAdjList<T> {$/;"	c
@@ -42,6 +45,7 @@ LinkedListTest	src/test/java/com/example/LinkedListTest.java	/^public class Link
 Lru	src/main/java/com/example/Lru.java	/^    public Lru(int capacity) {$/;"	m	class:Lru
 Lru	src/main/java/com/example/Lru.java	/^public class Lru<K, V> {$/;"	c
 LruTest	src/test/java/com/example/LruTest.java	/^class LruTest {$/;"	c
+MAX_NUMBER	src/main/java/com/example/CounterPrimes.java	/^    private final int MAX_NUMBER;$/;"	f	class:CounterPrimes	file:
 MazeResolverTest	src/test/java/com/example/MazeResolverTest.java	/^class MazeResolverTest {$/;"	c
 MazeSolver	src/main/java/com/example/MazeSolver.java	/^public class MazeSolver {$/;"	c
 MinHeap	src/main/java/com/example/MinHeap.java	/^    public MinHeap() {$/;"	m	class:MinHeap
@@ -49,6 +53,7 @@ MinHeap	src/main/java/com/example/MinHeap.java	/^public class MinHeap {$/;"	c
 Mru	src/main/java/com/example/Mru.java	/^    public Mru(int capacity) {$/;"	m	class:Mru
 Mru	src/main/java/com/example/Mru.java	/^public class Mru<K, V> {$/;"	c
 MruTest	src/test/java/com/example/MruTest.java	/^public class MruTest {$/;"	c
+NUM_OF_THREADS	src/main/java/com/example/CounterPrimes.java	/^    private final int NUM_OF_THREADS;$/;"	f	class:CounterPrimes	file:
 Point	src/main/java/com/example/Point.java	/^    private Point() {$/;"	m	class:Point	file:
 Point	src/main/java/com/example/Point.java	/^    public Point(int x, int y) {$/;"	m	class:Point
 Point	src/main/java/com/example/Point.java	/^public class Point {$/;"	c
@@ -76,6 +81,7 @@ beforeAll	src/test/java/com/example/BTPostOrderTest.java	/^    public static voi
 beforeAll	src/test/java/com/example/BTPreOrderTest.java	/^    public static void beforeAll() {$/;"	m	class:BTPreOrderTest
 beforeAll	src/test/java/com/example/CheckBstTest.java	/^    public static void beforeAll() {$/;"	m	class:CheckBstTest
 beforeAll	src/test/java/com/example/CompareTwoBTTest.java	/^    public static void beforeAll() {$/;"	m	class:CompareTwoBTTest
+beforeAll	src/test/java/com/example/CountPrimesTest.java	/^    public static void beforeAll() {$/;"	m	class:CountPrimesTest
 beforeAll	src/test/java/com/example/DFSGraphAdjListTest.java	/^    public static void beforeAll() {$/;"	m	class:DFSGraphAdjListTest
 beforeAll	src/test/java/com/example/Hack02Test.java	/^    public static void beforeAll() {$/;"	m	class:Hack02Test
 beforeAll	src/test/java/com/example/HexColorToRgbTest.java	/^    public static void beforeAll() {$/;"	m	class:HexColorToRgbTest
@@ -104,6 +110,7 @@ com.example	src/main/java/com/example/BTPostOrder.java	/^package com.example;$/;
 com.example	src/main/java/com/example/BTPreOrder.java	/^package com.example;$/;"	p
 com.example	src/main/java/com/example/CheckBst.java	/^package com.example;$/;"	p
 com.example	src/main/java/com/example/CompareTwoBT.java	/^package com.example;$/;"	p
+com.example	src/main/java/com/example/CounterPrimes.java	/^package com.example;$/;"	p
 com.example	src/main/java/com/example/CustomLinkedList.java	/^package com.example;$/;"	p
 com.example	src/main/java/com/example/DFSGraphAdjList.java	/^package com.example;$/;"	p
 com.example	src/main/java/com/example/GraphNode.java	/^package com.example;$/;"	p
@@ -127,6 +134,7 @@ com.example	src/test/java/com/example/BTPostOrderTest.java	/^package com.example
 com.example	src/test/java/com/example/BTPreOrderTest.java	/^package com.example;$/;"	p
 com.example	src/test/java/com/example/CheckBstTest.java	/^package com.example;$/;"	p
 com.example	src/test/java/com/example/CompareTwoBTTest.java	/^package com.example;$/;"	p
+com.example	src/test/java/com/example/CountPrimesTest.java	/^package com.example;$/;"	p
 com.example	src/test/java/com/example/DFSGraphAdjListTest.java	/^package com.example;$/;"	p
 com.example	src/test/java/com/example/Hack02Test.java	/^package com.example;$/;"	p
 com.example	src/test/java/com/example/HexColorToRgbTest.java	/^package com.example;$/;"	p
@@ -138,6 +146,7 @@ com.example	src/test/java/com/example/MruTest.java	/^package com.example;$/;"	p
 com.example	src/test/java/com/example/QuickSortTest.java	/^package com.example;$/;"	p
 com.example	src/test/java/com/example/SearchInBTTest.java	/^package com.example;$/;"	p
 compare	src/main/java/com/example/CompareTwoBT.java	/^    public boolean compare(TreeNode<T> a, TreeNode<T> b) {$/;"	m	class:CompareTwoBT
+countPrime	src/main/java/com/example/CounterPrimes.java	/^    private void countPrime(int number) {$/;"	m	class:CounterPrimes	file:
 counter	src/main/java/com/example/CustomLinkedList.java	/^    int counter;$/;"	f	class:CustomLinkedList
 data	src/main/java/com/example/MinHeap.java	/^    List<Integer> data;$/;"	f	class:MinHeap
 detach	src/main/java/com/example/Lru.java	/^    private void detach(LinkNode<V> node) {$/;"	m	class:Lru	file:
@@ -208,10 +217,12 @@ reverseLookup	src/main/java/com/example/Lru.java	/^    private Map<LinkNode<V>, 
 reverseLookup	src/main/java/com/example/Mru.java	/^    private Map<LinkNode<V>, K> reverseLookup;$/;"	f	class:Mru	file:
 right	src/main/java/com/example/MinHeap.java	/^    private int right(int idx) {$/;"	m	class:MinHeap	file:
 right	src/main/java/com/example/TreeNode.java	/^    public TreeNode<T> right;$/;"	f	class:TreeNode
+run	src/main/java/com/example/CounterPrimes.java	/^    public int run(int number) {$/;"	m	class:CounterPrimes
 search	src/main/java/com/example/SearchInBT.java	/^    public boolean search(TreeNode<Integer> head, Integer needle) {$/;"	m	class:SearchInBT
 setNeighbors	src/main/java/com/example/GraphNode.java	/^    public void setNeighbors(List<GraphNode<T>> neighbors) {$/;"	m	class:GraphNode
 setVal	src/main/java/com/example/GraphNode.java	/^    public void setVal(T val) {$/;"	m	class:GraphNode
 size	src/main/java/com/example/CustomLinkedList.java	/^    public int size() {$/;"	m	class:CustomLinkedList
+sonar	Makefile	/^sonar:$/;"	t
 sort	src/main/java/com/example/QuickSort.java	/^    private void sort(int[] array, int low, int hight) {$/;"	m	class:QuickSort	file:
 sort	src/main/java/com/example/QuickSort.java	/^    public void sort(int[] array) {$/;"	m	class:QuickSort
 sortOK	src/test/java/com/example/QuickSortTest.java	/^    void sortOK() {$/;"	m	class:QuickSortTest
@@ -225,6 +236,7 @@ svc	src/test/java/com/example/BTPostOrderTest.java	/^    static BTPostOrder<Inte
 svc	src/test/java/com/example/BTPreOrderTest.java	/^    static BTPreOrder<Integer> svc;$/;"	f	class:BTPreOrderTest
 svc	src/test/java/com/example/CheckBstTest.java	/^    static CheckBst svc;$/;"	f	class:CheckBstTest
 svc	src/test/java/com/example/CompareTwoBTTest.java	/^    static CompareTwoBT<Integer> svc;$/;"	f	class:CompareTwoBTTest
+svc	src/test/java/com/example/CountPrimesTest.java	/^    static CounterPrimes svc;$/;"	f	class:CountPrimesTest
 svc	src/test/java/com/example/DFSGraphAdjListTest.java	/^    static DFSGraphAdjList<Integer> svc;$/;"	f	class:DFSGraphAdjListTest
 svc	src/test/java/com/example/Hack02Test.java	/^    static Hack02 svc;$/;"	f	class:Hack02Test
 svc	src/test/java/com/example/HexColorToRgbTest.java	/^    static HexColorToRgb svc;$/;"	f	class:HexColorToRgbTest
@@ -237,11 +249,13 @@ svc	src/test/java/com/example/SearchInBTTest.java	/^    static SearchInBT svc;$/
 tail	src/main/java/com/example/CustomLinkedList.java	/^    LinkNode<T> tail;$/;"	f	class:CustomLinkedList
 tail	src/main/java/com/example/Lru.java	/^    private LinkNode<V> tail;$/;"	f	class:Lru	file:
 tail	src/main/java/com/example/Mru.java	/^    private LinkNode<V> tail;$/;"	f	class:Mru	file:
+test	Makefile	/^test:$/;"	t
 testAddAt	src/test/java/com/example/LinkedListTest.java	/^    public void testAddAt() {$/;"	m	class:LinkedListTest
 testBuildInvertTree	src/test/java/com/example/InverseBtTest.java	/^    void testBuildInvertTree() {$/;"	m	class:InverseBtTest
 testNoPath	src/test/java/com/example/MazeResolverTest.java	/^    void testNoPath() {$/;"	m	class:MazeResolverTest
 testNoPathEmpty	src/test/java/com/example/MazeResolverTest.java	/^    void testNoPathEmpty() {$/;"	m	class:MazeResolverTest
 testOK	src/test/java/com/example/BFSGraphAdjListTest.java	/^    public void testOK() {$/;"	m	class:BFSGraphAdjListTest
+testOK	src/test/java/com/example/CountPrimesTest.java	/^    public void testOK() {$/;"	m	class:CountPrimesTest
 testOK	src/test/java/com/example/DFSGraphAdjListTest.java	/^    public void testOK() {$/;"	m	class:DFSGraphAdjListTest
 testOK	src/test/java/com/example/LruTest.java	/^    void testOK() {$/;"	m	class:LruTest
 testOK	src/test/java/com/example/MazeResolverTest.java	/^    void testOK() {$/;"	m	class:MazeResolverTest
@@ -262,6 +276,7 @@ toRgbGreen	src/test/java/com/example/HexColorToRgbTest.java	/^    void toRgbGree
 toRgbRed	src/test/java/com/example/HexColorToRgbTest.java	/^    void toRgbRed() {$/;"	m	class:HexColorToRgbTest
 toString	src/main/java/com/example/LinkNode.java	/^    public String toString() {$/;"	m	class:LinkNode
 toString	src/main/java/com/example/TreeNode.java	/^    public String toString() {$/;"	m	class:TreeNode
+total	src/main/java/com/example/CounterPrimes.java	/^    private AtomicLong total;$/;"	f	class:CounterPrimes	file:
 tree	src/test/java/com/example/InverseBtTest.java	/^    TreeNode<Integer> tree;$/;"	f	class:InverseBtTest
 trimCache	src/main/java/com/example/Lru.java	/^    private void trimCache() {$/;"	m	class:Lru	file:
 trimCache	src/main/java/com/example/Mru.java	/^    private void trimCache() {$/;"	m	class:Mru	file:
