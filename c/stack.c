@@ -1,21 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define SIZE 20
-
-struct Node {
-  size_t data;
-  struct Node *next;
-} Node;
-
-struct StackList {
-  struct Node *top;
-} StackList;
-
-struct Stack {
-  int top;
-  size_t size;
-  size_t *data;
-};
+#include "stack.h"
 
 size_t isEmpty(struct Stack *st) { return st->top == -1 ? 1 : 0; }
 size_t isFull(struct Stack *st) { return st->top == st->size - 1 ? 1 : 0; }
@@ -53,16 +38,22 @@ int peek(struct Stack *st, size_t pos) {
 void Display(struct Stack *st) {
   printf("Values:\n");
   for (int i = 0; i <= st->top; i++) {
-    printf("%lu\n", st->data[i]);
+    printf("%d %lu\n",i, st->data[i]);
   }
 }
 
 struct Stack *newStack(size_t size) {
-  struct Stack *st = malloc(sizeof(struct Stack));
+  struct Stack *st = (struct Stack *) malloc(sizeof(struct Stack));
   st->size = size;
-  st->data = malloc(sizeof(int) * size);
+  st->data = (size_t *) malloc(sizeof(size_t) * size);
   st->top = -1;
   return st;
+}
+
+void freeStack(struct Stack *st) {
+   free(st->data); 
+   free(st); 
+   st=NULL;
 }
 
 void pushSl(struct StackList *st, size_t val) {
@@ -117,11 +108,12 @@ void DisplaySl(struct StackList *st) {
 }
 
 struct StackList *newStackSl() {
-  struct StackList *st = malloc(sizeof(struct StackList));
+  struct StackList *st = (struct StackList *)malloc(sizeof(struct StackList));
   st->top = NULL;
   return st;
 }
 
-int main(int argc, char *argv[]) {
-  return 0;
+void freeStackSl(struct StackList *st) {
+    free(st); 
+    st=NULL;
 }
